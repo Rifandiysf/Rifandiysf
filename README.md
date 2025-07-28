@@ -12,8 +12,11 @@ Junior Frontend Developer & Junior UI/UX
 ## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rifandiysf&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rifandiysf&show_icons=true&theme=tokyonight&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rifandiysf&layout=compact&theme=tokyonight&langs_count=8" />
+</p>
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Rifandiysf&theme=tokyonight&border_radius=4&date_format=j%20M%5B%20Y%5D"/>
 </p>
 
 ##
