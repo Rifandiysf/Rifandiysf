@@ -6,8 +6,8 @@
 
 Junior Frontend Developer & Junior UI/UX
 
-- HTML5, CSS3, JavaScript (ES6+), MySQL
-- React, TailwindCSS, Bootstrap, NodeJS, Figma
+- HTML5, CSS3, JavaScript (ES6+), TypeScript
+- React, TailwindCSS, NextJs, NodeJS, Figma
 
 ## GitHub Stats
 
