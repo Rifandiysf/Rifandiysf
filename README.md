@@ -1,5 +1,5 @@
 <a href="https://rifandiysf.vercel.app/">
-  <img width="1115" height="278" alt="rifandiysf-banner-blue" src="https://github.com/user-attachments/assets/2075ea91-5e11-4fcd-8231-1e1d89a35c5c" />
+  <img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/66f3ab1d-71a3-493a-8439-402b5605490e" />
 </a>
 
 ## About me
