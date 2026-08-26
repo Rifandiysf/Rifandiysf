@@ -22,5 +22,5 @@ Junior Frontend Developer & Junior UI/UX
 ##
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=mr5wrdg9hqkti75mmdymmpoyw&count=2&unique={true|1|on|yes}&width=840px" />
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=mr5wrdg9hqkti75mmdymmpoyw&count=2&unique={true|1|on|yes}&width=840px" />
 </div>
