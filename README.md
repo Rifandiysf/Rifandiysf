@@ -2,12 +2,11 @@
   <img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/66f3ab1d-71a3-493a-8439-402b5605490e" />
 </a>
 
-## About me
+## Tech Stack
 
-Junior Frontend Developer & Junior UI/UX
-
-- HTML5, CSS3, JavaScript (ES6+), TypeScript
-- React, TailwindCSS, NextJs, NodeJS, Figma
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nextjs,nodejs,express,nestjs,figma,linux&theme=dark" alt="Tech stack" />
+</p>
 
 ## GitHub Stats
 
